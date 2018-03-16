@@ -13,7 +13,9 @@ p {
 input {
 	color: blue;
 }
-
+.hobbie{
+padding-left: 50px;
+}
 
 h4 {
 	color: red;
@@ -59,4 +61,7 @@ img.project{
 }
 .projectp{
   margin-top:20px;
+}
+.under{
+  margin-top: 10px;
 }
